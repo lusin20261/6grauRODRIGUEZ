@@ -1,0 +1,5 @@
+1: mi ama
+2: mi apa
+3: mi hermana
+4: mis perros
+5: mis gatos
